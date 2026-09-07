@@ -61,4 +61,3 @@ Alternativ zum Leistungsdatenreiter können hier auch die Quartals- und Endnoten
 Seitens der schulischen Administration können einzelne Lerngruppe für die Eingaben ganz oder auch nur teilweise gesperrt werden.
 
 ![gesperrte Lerngruppen](./graphics/gesperrteLerngruppen.png)
-

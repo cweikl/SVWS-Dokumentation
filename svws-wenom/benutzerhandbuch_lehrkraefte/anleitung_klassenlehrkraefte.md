@@ -19,5 +19,3 @@ Unter den Spalten
 können jeweils in diesen unterschiedlichen Kontexten Bemerkungen eingetragen werden.
 
 Ebenso wie bei den fachbezogenen Bemerkungen kann hier auf vorformulierte Floskeln zurückgegriffen werden. Zum Bearbeiten des Textes öffnet sich ein Fenster, in dem Floskeln ausgewählt oder manuell eingetragen werden können.
-
-
