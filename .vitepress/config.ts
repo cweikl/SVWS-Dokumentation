@@ -75,6 +75,9 @@ export default defineConfig(({ mode }) => {
 							{ text: 'Schema-Neuanlage', link: '/adminclient/apps/schemata/schema_neu.md' },
 							{ text: 'Konfiguration', link: '/adminclient/apps/konfiguration' },
 						] },
+						{ text: 'Anleitungen', link: '/adminclient/anleitungen/', collapsed: false, items: [
+							{ text: 'Kurzanleitung Migration', link: '/adminclient/anleitungen/kurzanleitung_migration.md' },
+						] },
 					] },
 				],
 				'/schulungen': [
@@ -140,12 +143,11 @@ export default defineConfig(({ mode }) => {
 				],
 				'/deployment': [
 					{ text: '', items: [
-						{ text: 'Übersicht', link: '/deployment/' },
+						{ text: 'Installation', link: '/deployment/' },
 						{ text: 'IT-Umgebungen', link: '/deployment/IT-Umgebungen/' },
 						{ text: 'Installationsmethoden', link: '/deployment/installationsmethoden.md', collapsed: false, items: [
 							{ text: 'Linux-Installer', link: '/deployment/Linux-Installer/' },
 							{ text: 'Docker-Container', link: '/deployment/Docker/' },
-							{ text: 'NAS', link: '/deployment/NAS/' },
 							{ text: 'Windows-Installer', link: '/deployment/Windows-Installer/' },
 //							{ text: 'Testserver', link: '/deployment/Testserver/' },
 						] },
@@ -153,6 +155,7 @@ export default defineConfig(({ mode }) => {
 						{ text: 'Datenmigration', link: '/deployment/Datenmigration/' },
 						{ text: 'Datensicherung', link: '/deployment/Datensicherung/' },
 						{ text: 'Updates', link: '/deployment/UpdateSVWS' },
+						{ text: 'SVWS-Tools', link: '/deployment/svws-tools/'},
 						{ text: 'Schulungsserver', link: '/deployment/Schulungsserver/'},
 						{ text: 'SchILD-NRW-3', link: '/deployment/Schild-NRW3/' },
 						{ text: 'FAQ', link: '/deployment/FAQ.md' },
